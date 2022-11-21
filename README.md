@@ -13,5 +13,4 @@ A document I would like to revise would be the technical requirements identified
 Add text
 
 ## Software Design Approach
-Add text
-
+This course was a great experience. We learned probably some of the most important ways to approach designing software. First, software development typically follows a software development life cycle (SDLC). At high-level, it includes planning, analysis, design, implementation, and maintenance. Second, as part of analysis and design, we aim at understanding the system from various perspectives to attempt describing it as fully possible. For example, using behavioral, structural, and functional models, we can view the system in different ways. Based on the models, we can gain a better understanding of the system for analysis and design. The strategy I would use in the future is to do more modeling before actually starting a project.
